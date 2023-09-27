@@ -24,3 +24,4 @@
 3. Perplexity after Add-k Smoothing
 4. Perplexity after Unigram-Prior Smoothing
 5. Perplexity after applying Good Turing Algorithm
+## Members : Darshi Doshi, Ruchika Sonagote, Sriman Reddy, Nikhilesh Myanapuri, Shreyase Bhadra, Ekansh Somani
